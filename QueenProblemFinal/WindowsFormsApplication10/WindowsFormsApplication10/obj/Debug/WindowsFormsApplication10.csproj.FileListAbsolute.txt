@@ -1,0 +1,24 @@
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\user1\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.dll
+C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.help.resources
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.dll
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.help.resources
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\yasir\Desktop\QueenProblemFinal\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
